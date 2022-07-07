@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BlazingPizza;
 
-[Route("Specials")]
+[Route("specials")]
 [ApiController]
 public class SpecialsController : Controller
 {
